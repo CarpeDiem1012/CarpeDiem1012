@@ -21,8 +21,8 @@ Things about me:
 
 <!-- ![CarpeDiem1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarpeDiem1012&count_private=true&hide_border=true&show_icons=true&theme=aura) -->
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CarpeDiem1012&hide_border=true&langs_count=10&theme=aura' height="200">
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CarpeDiem1012&hide_border=true&langs_count=10&theme=aura' height="190">
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=CarpeDiem1012&count_private=true&hide_border=true&show_icons=true&theme=aura' height="200">
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=CarpeDiem1012&count_private=true&hide_border=true&show_icons=true&theme=aura' height="190">
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=CarpeDiem1012) -->
