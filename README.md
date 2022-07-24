@@ -11,9 +11,9 @@ Things about me:
 - ❤️ I'm fascinated with **_Museum_**, **_Vinyl_**, **_Astronomy_**, **_Hiking_**.
 - 🤔 I’m looking for **_your Sharings_**, **_Suggestions_**, **_Feedbacks_**,
 - ⚡ Fun fact:
-  - I am not result-oriented and like useless thinking.
+  - I am not result-oriented and enjoy useless thinking (although my boss does definitely not).
   - I lost weight of 30kg in 2018.
-  - I like collecting cheep but memorable items and have a tiny museum for them.
+  - I am into collecting trivial but memorable items in life, for which a tiny personal museum is maintained.
 
 - 👀 INCOMING: _[A Roadmap of My Life That My Boss Would Never Like]()_
 
