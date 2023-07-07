@@ -2,7 +2,7 @@
 
 ### 你好 | Hi there | Guten Tag | こんにちは 👋
 
-This is Liangchen SUI (隋 良宸). I explore, record, create things that amuse myself here. My GitHub ID **CarpeDiem** is a Latin quoted by one of my favorite movies _[Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society)_. For more discussions on movies, musicals, books and readings, please leave your messages in the Issues. 😁
+This is Liangchen SUI (隋 良宸). I explore, record, create things that amuse myself here. My GitHub ID **CarpeDiem** is a Latin quoted by one of my favorite movies _[Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society)_. 😁
 
 Things about me:
 
