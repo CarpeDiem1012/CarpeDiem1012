@@ -15,8 +15,6 @@ Things about me:
   - I lost weight of 30kg in 2018.
   - I am into collecting trivial but memorable items in life, for which a tiny personal museum is maintained.
 
-- 👀 INCOMING: _[A Roadmap of My Life That My Boss Would Never Like]()_
-
 <!-- ![CarpeDiem1012's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarpeDiem1012&layout=compact&hide_border=true&langs_count=10&theme=aura) -->
 
 <!-- ![CarpeDiem1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarpeDiem1012&count_private=true&hide_border=true&show_icons=true&theme=aura) -->
